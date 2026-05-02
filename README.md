@@ -6,7 +6,20 @@ This is the place where you know some basic ways of making README file more attr
 | Title | Syntax |
 |-------| --------|
 | Heading | # Biggest Heading |
-| Bold | *** boldtext *** |
+| Bold | ** boldtext ** |
+| Italic | * writeItalicText * |
+| bold + Italic | *** yourText *** |
+| Underline | <u> Your Text </u> |
+| Horizontal line | --- |
+| Links | [ Text ](URL) |
+| Images | ![alt Text ](image-link) |
+| Lists-Bullet | - Text1 , -text2 ...|
+| Lists-Numbered | 1. Text1, 2. Text2 ...|
+
+## More are present in the notes 
+
+### Made with Love - Manish Rajak
+
 
 
 
