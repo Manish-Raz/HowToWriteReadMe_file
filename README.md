@@ -1,47 +1,12 @@
 # HowToWriteReadMe_file
-
-
-## Creating table
-| Name | Language |
-|------|----------|
-| App  | Python   |
-| Web  | JS       |
-
-
-## Creating collapsible content
-<details>
-<summary>Click to expand</summary>
-
-Hidden content here
-
-</details><details>
-<summary>Click to expand</summary>
-
-Hidden content here
-
-</details>
-
----
----
-# Example of nice readme file
-# Calculator App
-
-Simple calculator made with Python.
+This is the place where you know some basic ways of making README file more attractive for your project. I didn't know much about this, but I learnt about it and now I am sharing with you all. There are many syntax for writing headings, adding images, links, horizontal line, bullet, boxes, and many more. You can also download the images of the notes enclosed with this repo. 
 
 ---
 
-## Features
+| Title | Syntax |
+|-------| --------|
+| Heading | # Biggest Heading |
+| Bold | *** boldtext *** |
 
-- Add numbers
-- Subtract
-- Multiply
-- Divide
 
----
 
-## Installation
-
-```bash
-git clone https://github.com/user/calculator.git
-cd calculator
-python main.py
