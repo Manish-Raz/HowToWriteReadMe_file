@@ -1,14 +1,14 @@
 # HowToWriteReadMe_file
 
 
-##Creating table
+## Creating table
 | Name | Language |
 |------|----------|
 | App  | Python   |
 | Web  | JS       |
 
 
-##Creating collapsible content
+## Creating collapsible content
 <details>
 <summary>Click to expand</summary>
 
