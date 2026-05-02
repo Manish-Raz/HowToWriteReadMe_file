@@ -11,8 +11,8 @@ This is the place where you know some basic ways of making README file more attr
 | bold + Italic | *** yourText *** |
 | Underline | <u> Your Text </u> |
 | Horizontal line | --- |
-| Links | [ Text ](URL) |
-| Images | ![alt Text ](image-link) |
+| Links |\[ Text ](URL) |
+| Images | \![alt Text ](image-link) |
 | Lists-Bullet | - Text1 , -text2 ...|
 | Lists-Numbered | 1. Text1, 2. Text2 ...|
 
