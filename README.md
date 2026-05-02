@@ -20,3 +20,28 @@ Hidden content here
 Hidden content here
 
 </details>
+
+---
+---
+# Example of nice readme file
+# Calculator App
+
+Simple calculator made with Python.
+
+---
+
+## Features
+
+- Add numbers
+- Subtract
+- Multiply
+- Divide
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/user/calculator.git
+cd calculator
+python main.py
